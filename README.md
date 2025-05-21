@@ -55,3 +55,20 @@ The goal of this project is to help users stay inspired by delivering motivation
 
 ## 🗂 Folder Structure
 
+MotivationApp/
+├── app/
+│ └── src/
+│ └── main/
+│ ├── java/
+│ │ └── com/yourpackage/motivationapp/
+│ │ ├── activities/
+│ │ ├── adapters/
+│ │ ├── models/
+│ │ └── utils/
+│ ├── res/
+│ │ ├── layout/
+│ │ ├── values/
+│ │ └── drawable/
+│ ├── AndroidManifest.xml
+├── build.gradle
+└── README.md
